@@ -1,2 +1,3 @@
-while(True) : 
-  neverGiveUp()
+void loop() {
+  NerverGiveUp();
+}
