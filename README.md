@@ -74,7 +74,7 @@ Cybersecurity student always looking for something to learn. I also learned web 
 
 ---
 
-## 🤝 Connectons-nous !
+## 🤝 Let's connect !
 
 <div align="center">
 
