@@ -71,6 +71,8 @@ Cybersecurity student always looking for something to learn. I also learned web 
 <div align="center">
 
 [![Projet 1](https://github-readme-stats.vercel.app/api/pin/?username=RaphaelAbraham&repo=Woodhold&theme=tokyonight)](https://github.com/RaphaelAbraham/Woodhold)
+[![Projet 2](https://github-readme-stats.vercel.app/api/pin/?username=RaphaelAbraham&repo=Cassette&theme=tokyonight)](https://github.com/RaphaelAbraham/Cassette)
+[![Projet 3](https://github-readme-stats.vercel.app/api/pin/?username=RaphaelAbraham&repo=GertrudeRobotix&theme=tokyonight)](https://github.com/RaphaelAbraham/GertrudeRobotix)
 
 </div>
 
