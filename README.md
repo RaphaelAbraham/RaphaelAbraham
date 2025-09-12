@@ -6,9 +6,10 @@
 
 ---
 
-## 🚀 À propos de moi
+## 🚀 Who am I ?
 
-> *"Le code est de la poésie écrite pour les machines, mais lue par les humains"*
+> *"Be nice to nerds. Chances are you'll end up working for one."*
+> Bill Gates
 
 Développeur passionné avec une soif d'apprendre et de créer des solutions innovantes. J'aime transformer des idées complexes en applications élégantes et fonctionnelles.
 
