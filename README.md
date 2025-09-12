@@ -20,7 +20,7 @@ Cybersecurity student always looking for something to learn. I also learned web 
 
 ---
 
-## 🛠️ Stack Technologique
+## 🛠️ Tech Stack
 
 <div align="center">
 
