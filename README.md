@@ -46,12 +46,12 @@ Cybersecurity student always looking for something to learn. I also learned web 
 ## 📊 Statistiques GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[VOTRE_USERNAME]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[VOTRE_USERNAME]&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaphaelAbraham&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelAbraham&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[VOTRE_USERNAME]&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaphaelAbraham&theme=tokyonight" alt="Streak Stats" />
 </div>
 
 ---
@@ -60,8 +60,8 @@ Cybersecurity student always looking for something to learn. I also learned web 
 
 <div align="center">
 
-[![Projet 1](https://github-readme-stats.vercel.app/api/pin/?username=[VOTRE_USERNAME]&repo=[NOM_REPO_1]&theme=tokyonight)](https://github.com/[VOTRE_USERNAME]/[NOM_REPO_1])
-[![Projet 2](https://github-readme-stats.vercel.app/api/pin/?username=[VOTRE_USERNAME]&repo=[NOM_REPO_2]&theme=tokyonight)](https://github.com/[VOTRE_USERNAME]/[NOM_REPO_2])
+[![Projet 1](https://github-readme-stats.vercel.app/api/pin/?username=RaphaelAbraham&repo=[NOM_REPO_1]&theme=tokyonight)](https://github.com/RaphaelAbraham/[NOM_REPO_1])
+[![Projet 2](https://github-readme-stats.vercel.app/api/pin/?username=RaphaelAbraham&repo=[NOM_REPO_2]&theme=tokyonight)](https://github.com/RaphaelAbraham/[NOM_REPO_2])
 
 </div>
 
@@ -70,7 +70,7 @@ Cybersecurity student always looking for something to learn. I also learned web 
 ## 🌟 Contributions
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[VOTRE_USERNAME]&theme=tokyo-night&bg_color=1a1b27&color=be90f2&line=be90f2&point=ffc000&area=true&area_color=be90f2&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaphaelAbraham&theme=tokyo-night&bg_color=1a1b27&color=be90f2&line=be90f2&point=ffc000&area=true&area_color=be90f2&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -89,13 +89,13 @@ Cybersecurity student always looking for something to learn. I also learned web 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=[VOTRE_USERNAME]&label=Visiteurs&color=6366f1&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=RaphaelAbraham&label=Visiteurs&color=6366f1&style=flat-square" alt="Profile views" />
 </div>
 
 <div align="center">
   
-*"La meilleure façon de prédire l'avenir, c'est de l'inventer"* - Alan Kay
+*"La meilleure façon de prédire l'avenir, c'est de l'inventer"* ~ Alan Kay
 
-**Merci de visiter mon profil ! ⭐ N'hésitez pas à explorer mes repositories**
+**Thanks for visiting my profile ! ⭐ Don't hesitate to visit my repositories**
 
 </div>
