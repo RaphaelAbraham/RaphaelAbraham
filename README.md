@@ -43,7 +43,7 @@ Cybersecurity student always looking for something to learn. I also learned web 
 
 ---
 
-## 📊 Statistiques GitHub
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaphaelAbraham&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -56,7 +56,7 @@ Cybersecurity student always looking for something to learn. I also learned web 
 
 ---
 
-## 🏆 Projets Phares
+## 🏆 Projects I'm proud of
 
 <div align="center">
 
