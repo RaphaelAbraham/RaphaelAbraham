@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Raphaël !
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=440&lines=Cybersecurity+student;Self-taught+developer;Always+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=2000&color=6366F1&center=true&vCenter=true&width=440&lines=Cybersecurity+student;Self-taught+developer;Always+learning" alt="Typing SVG" />
 </div>
 
 ---
@@ -11,12 +11,12 @@
 > *"Be nice to nerds. Chances are you'll end up working for one."*
 > ~ Bill Gates
 
-Développeur passionné avec une soif d'apprendre et de créer des solutions innovantes. J'aime transformer des idées complexes en applications élégantes et fonctionnelles.
+Cybersecurity student always looking for something to learn. I also learned web development by myself while I was bored as a child.
 
-- 🌱 Actuellement en train d'apprendre **[Nouvelle Technologie]**
-- 💬 Demandez-moi des questions sur **[Vos Spécialités]**
-- ⚡ Fun fact : **[Quelque chose d'intéressant sur vous]**
-- 📫 Comment me contacter : **[votre.email@exemple.com]**
+- 🌱 Currently learning **Obsidian note taking app**
+- 💬 You can ask me questions about **Web security**, I'm quiet good at this
+- ⚡ Fun fact : **I first started coding at 14 on my mother's computer**
+- 📫 Contact : Nothing for now :/ Would you mind waiting a bit ?
 
 ---
 
