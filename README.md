@@ -9,12 +9,11 @@
 ## 🚀 Who am I ?
 
 > *"Be nice to nerds. Chances are you'll end up working for one."*
-> ~ Bill Gates
 
 Cybersecurity student always looking for something to learn. I also learned web development by myself while I was bored as a child.
 
 - 🌱 Currently learning **Obsidian note taking app**
-- 💬 You can ask me questions about **Web security**, I'm quiet good at this
+- 💬 You can ask me questions about **Web security**, I'm quite good at this
 - ⚡ Fun fact : **I first started coding at 14 on my mother's computer**
 - 📫 Contact : Nothing for now :/ Would you mind waiting a bit ?
 
