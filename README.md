@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Raphaël !
+# Hi, I'm Raphaël !
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=2000&color=6366F1&center=true&vCenter=true&width=440&lines=Cybersecurity+student;Self-taught+developer;Always+learning" alt="Typing SVG" />
@@ -6,20 +6,20 @@
 
 ---
 
-## 🚀 Who am I ?
+## Who am I ?
 
 > *"Be nice to nerds. Chances are you'll end up working for one."*
 
 Cybersecurity student always looking for something to learn. I also learned web development by myself while I was bored as a child.
 
-- 🌱 Currently learning **Obsidian note taking app**
-- 💬 You can ask me questions about **Web security**, I'm quite good at this
-- ⚡ Fun fact : **I first started coding at 14 on my mother's computer**
-- 📫 Contact : Nothing for now :/ Would you mind waiting a bit ?
+- Currently learning **Obsidian note taking app**
+- You can ask me questions about **Web security**, I'm quite good at this
+- Fun fact : **I first started coding at 14 on my mother's computer**
+- Contact : Nothing for now :/ Would you mind waiting a bit ?
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -53,7 +53,7 @@ Cybersecurity student always looking for something to learn. I also learned web 
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaphaelAbraham&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -66,7 +66,7 @@ Cybersecurity student always looking for something to learn. I also learned web 
 
 ---
 
-## 🏆 Projects I'm proud of
+## Projects I'm proud of
 
 <div align="center">
 
@@ -78,7 +78,7 @@ Cybersecurity student always looking for something to learn. I also learned web 
 
 ---
 
-## 🌟 Contributions
+## Contributions
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaphaelAbraham&theme=tokyo-night&bg_color=1a1b27&color=be90f2&line=be90f2&point=ffc000&area=true&area_color=be90f2&hide_border=true" alt="Contribution Graph" />
@@ -86,7 +86,7 @@ Cybersecurity student always looking for something to learn. I also learned web 
 
 ---
 
-## 🤝 Let's connect !
+## Let's connect !
 
 <div align="center">
 
